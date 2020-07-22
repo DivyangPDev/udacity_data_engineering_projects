@@ -1,6 +1,6 @@
-## Project AIM: To build an ETL pipeline for a database hosted on Redshift.
+# Project: To build an ETL pipeline for a database hosted on Redshift.
 
-## Project Description
+### Project Description
 A music streaming startup, Sparkify, has grown the user base and 
 song database and want to move their processes and data onto the 
 cloud. Their data resides in S3, in a directory of JSON logs on
