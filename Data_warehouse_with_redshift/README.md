@@ -1,3 +1,5 @@
+## Project AIM: To build an ETL pipeline for a database hosted on Redshift.
+
 ## Project Description
 A music streaming startup, Sparkify, has grown the user base and 
 song database and want to move their processes and data onto the 
@@ -46,7 +48,6 @@ stg_songs
     
 ### List of scripts
 
-dwh.cfg - configuration file 
 sql_queries.py - includes (CRUD) queries
 create_tables.py - Resets the database by droppoing and recreating the tables
 etl.py - loads the json files for songs and logs dataset from the s3 folder on the db in the staging table and then insert into
